@@ -215,7 +215,6 @@ This is No. 52
 8 + 9 = 17
 [4, 6, 7, 8, 9]
 Total: 52
-[Finished in 0.2s]
 
 
 
@@ -301,4 +300,3 @@ Solution No. 49 : [3, 5, 6, 7, 9]
 Solution No. 50 : [3, 5, 7, 8, 9]
 Solution No. 51 : [4, 5, 6, 7, 8]
 Solution No. 52 : [4, 6, 7, 8, 9]
-[Finished in 0.1s]
